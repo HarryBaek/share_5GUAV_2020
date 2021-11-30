@@ -22,7 +22,7 @@ if __name__ == '__main__':
         ret_dev = devide(y,z)
     except ZeroDivisionError as e:
         print('z값 수정 필요', e)
-    print('곱: ', ret_mul)
+    print('곱 : ', ret_mul)
 
 pass
 
